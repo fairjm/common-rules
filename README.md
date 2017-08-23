@@ -1,5 +1,6 @@
 # Common Rules
-A [groovy](http://www.groovy-lang.org) script based common rule engine for java.
+A [groovy](http://www.groovy-lang.org) script based common rule engine for java.  
+Just a toy.Use linear search so the performance is really bad when handling hundreds of rules with thousands of fact.
 
 ## What is Common Rules?  
 common rules is just a simple groovy script based rule engine(maybe a wrapper is more proper :>)  
